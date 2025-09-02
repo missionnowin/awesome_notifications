@@ -1,8 +1,4 @@
 build/
-example/ios/Runner/GoogleService-Info.plist
-
-example/android/app/.cxx/
-
 .dart_tool/
 
 .idea/
